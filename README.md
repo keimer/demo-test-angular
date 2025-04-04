@@ -1,6 +1,6 @@
 # demo-test-angular
 
-Steps:
+Pasos demo:
 * Descargue el repo en git (trabajaremos con gitflow)
 * Crea tu rama de trabajo (feature/<nombre-participante>) desde la rama main (IMPORTANTE)
 * Debe crear un módulo donde contenga una página donde tenga una card que se repita con una imagen y el título del anime.
